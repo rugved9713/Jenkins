@@ -4,7 +4,6 @@ str = "hello world!"
 #comment
 ,
 jmhj,yhj,
-8uikjkhjkbhjkbhjk
-ll
+8uikjkh
 jjhbvv
 hnjk
